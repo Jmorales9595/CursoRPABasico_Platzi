@@ -3,10 +3,11 @@
   "description": "Proceso en blanco",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.11.4]",
-    "UiPath.Mail.Activities": "[1.12.3]",
-    "UiPath.System.Activities": "[21.10.4]",
-    "UiPath.UIAutomation.Activities": "[21.10.5]"
+    "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.Mail.Activities": "[1.15.1]",
+    "UiPath.PDF.Activities": "[3.6.0]",
+    "UiPath.System.Activities": "[22.4.0]",
+    "UiPath.UIAutomation.Activities": "[22.4.2-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
